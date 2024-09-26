@@ -76,5 +76,7 @@ Les contributions sont les bienvenues ! Pour contribuer à Fittrack :
 - Commitez vos changements (git commit -m 'Ajoute une nouvelle fonctionnalité').
 - Poussez la branche (git push origin ma-nouvelle-fonctionnalité).
 - Ouvrez une Pull Request.
-- Licence
-- Ce projet est sous licence MIT - voir le fichier LICENSE pour plus de détails.
+
+## Licence
+
+Ce projet est sous licence \*\*\*\* - voir le fichier LICENSE pour plus de détails.
