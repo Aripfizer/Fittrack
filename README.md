@@ -31,6 +31,19 @@ Fittrack est une application mobile conçue pour vous aider à suivre vos entra�
 Pour installer Fittrack sur votre machine locale, suivez ces étapes :
 
 1. Clonez le dépôt :
+
    ```bash
    git clone https://github.com/votre-utilisateur/fittrack.git
+   ```
+
+2. Installer les dépendances :
+
+   ```bash
+   npm i
+   ```
+
+   ou
+
+   ```bash
+   npm install
    ```
